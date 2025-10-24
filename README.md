@@ -138,4 +138,5 @@ Nếu muốn, mình có thể giúp cập nhật workflow để:
 
 Nếu bạn muốn mình cập nhật file `.github/workflows/ci.yml` để cài deps per-service hoặc thêm DB services cho test, cho mình biết lựa chọn (ví dụ: "install per-service" hoặc "use docker-compose services") — mình sẽ cập nhật workflow sẵn sàng.
 
-22715051-VuHaiDang
+Sinh viên thực hiện : Vũ Hải Đăng
+MSSV : 22715051
